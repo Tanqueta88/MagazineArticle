@@ -3,6 +3,14 @@
 
 ![Image text](https://github.com/Tanqueta88/MagazineArticle/blob/master/MagazineArticle.jpg)
 
+## Content
+* [General information](#introduccion)
+* [Technologies](#technologies)
+* [Project installation](#installation)
+
+<a name="introduccion"></a> 
+## General information
+In this repository, a magazine article is created using CSS Grid, working on concepts such as rows and columns of the grid.
 
 <a name="technologies"></a> 
    ## Used technology  💻 
