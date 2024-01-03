@@ -13,6 +13,15 @@
 In this repository, a magazine article is created using CSS Grid, working on concepts such as rows and columns of the grid.
 
 <a name="technologies"></a> 
+
+## Project status 🚧 
+<details>
+    <summary>Click Here for Detail ↩️</summary>
+    <br>
+   <p align="justify">The project is finished as it implements CSS to improve the visual aspects of the application.🔨 </p>
+   </details>
+   <hr>
+
    ## Used technology  💻 
    
 <details>
